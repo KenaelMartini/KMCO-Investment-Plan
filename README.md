@@ -1,5 +1,7 @@
 # KÉNAEL MARTINI & CO. – Strategic Investment Plan
 
+*KM&CO Global Multi-Asset Allocation Framework – November 2025 Edition*
+
 ## Overview
 This repository presents the **KM&CO Strategic Investment Plan**, designed and supervised by **Kénael Martini**, Founder & Macro-FX Analyst.  
 It demonstrates a **long-term, macro-driven, and disciplined** approach to portfolio management, balancing **capital growth** with **volatility control** and **currency risk management**.
